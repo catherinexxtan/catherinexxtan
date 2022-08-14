@@ -1,4 +1,25 @@
-### Hi there 👋
+### moonchild 🌙
+
+
+<p align="left">
+<img src="https://i.pinimg.com/originals/eb/54/d4/eb54d4191a91f9ff3c2f9a198471136b.gif" height="271"> 
+<img src="https://i.pinimg.com/originals/ce/5d/3e/ce5d3e8ec57dc973457306514ae24fbc.gif" width="300" height="271">
+  
+</p>
+
+┊┊┊┊ ➶ ｡˚ ✧ <br> </br>
+┊┊┊✧ ⁺    ⁺ 　° <br> </br>
+┊┊ . ͎. ｡˚ °    **Hello! I'm Catherine** <br></br>
+┊┊          <br> </br>
+┊┊ ➶ ｡˚     <br> </br>
+┊┊ ✧ ⁺.     <br> </br>
+┊┊.                      ➶-͙˚ ༘✶  <br> </br>
+┊ ➶ ｡˚ 　　°    <br> </br>
+*.           *    ·
+
+
+
+Hello, I'm Catherine — a computer engineering student at UGA. 🌱 I enjoy inclusive design, creative graphics, and music. 
 
 <!--
 **catherinexxtan/catherinexxtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
