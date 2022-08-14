@@ -11,7 +11,6 @@
 ┊┊┊✧ ⁺    ⁺ 　° <br> </br>
 ┊┊ . ͎. ｡˚ °    **Hello! I'm Catherine** <br></br>
 ┊┊          <br> </br>
-┊┊ ➶ ｡˚     <br> </br>
 ┊┊ ✧ ⁺.     <br> </br>
 ┊┊.                      ➶-͙˚ ༘✶  <br> </br>
 ┊ ➶ ｡˚ 　　°    <br> </br>
@@ -19,7 +18,7 @@
 
 
 
-Hello, I'm Catherine — a computer engineering student at UGA. 🌱 I enjoy inclusive design, creative graphics, and music. 
+— I'm a computer engineering student at UGA. 🌱 I enjoy inclusive design, creative graphics, and music. 
 
 <!--
 **catherinexxtan/catherinexxtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
