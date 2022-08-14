@@ -6,13 +6,14 @@
 <img src="https://i.pinimg.com/originals/ce/5d/3e/ce5d3e8ec57dc973457306514ae24fbc.gif" width="300" height="271">
 </p>
 
-┊┊┊┊ ➶ ｡˚ ✧ <br> </br>
-┊┊┊✧ ⁺    ⁺ 　° 
-<h3> ┊┊ . ͎. ｡˚ °   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello! I'm Catherine 🌱 </h3> 
-┊┊ ✧ ⁺.     <br> </br>
-┊┊.                      ➶-͙˚ ༘✶  <br> </br>
-┊ ➶ ｡˚ 　　°    <br> </br>
-*.           *    · <br> </br>
+︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶༉‧₊˚. ✧. *. ⋆┄┄┄✧┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ ⋆ 
+<h3>┊┊┊┊ ➶ ｡˚ ✧ </h3>
+<h3>┊┊┊✧ ⁺  &nbsp; &nbsp;   ⁺ 　° </h3>
+<h3>┊┊ . ͎. ｡˚ °   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello! I'm Catherine 🌱 </h3> 
+<h3>┊┊ ✧ ⁺.     </h3>
+<h3>┊┊.        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ➶-͙˚ ༘✶  </h3>
+<h3>┊ ➶ ｡˚ 　　°   </h3>
+<h3>*. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *    · <br> </br> </h3>
 
 — I'm a computer engineering student at UGA. I enjoy inclusive design, creative graphics, and music ˙ᵕ˙ 
  
