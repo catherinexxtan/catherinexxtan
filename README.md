@@ -4,21 +4,19 @@
 <p align="left">
 <img src="https://i.pinimg.com/originals/eb/54/d4/eb54d4191a91f9ff3c2f9a198471136b.gif" width="500" height="271"> 
 <img src="https://i.pinimg.com/originals/ce/5d/3e/ce5d3e8ec57dc973457306514ae24fbc.gif" width="300" height="271">
-  
 </p>
 
 ┊┊┊┊ ➶ ｡˚ ✧ <br> </br>
-┊┊┊✧ ⁺    ⁺ 　° <br> </br>
-┊┊ . ͎. ｡˚ °    **Hello! I'm Catherine** <br></br>
-┊┊          <br> </br>
+┊┊┊✧ ⁺    ⁺ 　° 
+<h3> ┊┊ . ͎. ｡˚ °   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello! I'm Catherine 🌱 </h3> 
 ┊┊ ✧ ⁺.     <br> </br>
 ┊┊.                      ➶-͙˚ ༘✶  <br> </br>
 ┊ ➶ ｡˚ 　　°    <br> </br>
-*.           *    ·
+*.           *    · <br> </br>
 
+— I'm a computer engineering student at UGA. I enjoy inclusive design, creative graphics, and music ˙ᵕ˙ 
+ 
 
-
-— I'm a computer engineering student at UGA. 🌱 I enjoy inclusive design, creative graphics, and music. 
 
 <!--
 **catherinexxtan/catherinexxtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
