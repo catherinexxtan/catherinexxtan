@@ -5,8 +5,6 @@
 <img src="https://i.pinimg.com/originals/ce/5d/3e/ce5d3e8ec57dc973457306514ae24fbc.gif" width="300" height="271">
 </p>
 
-
-
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶༉‧₊˚. ✧. *. ⋆┄┄┄✧┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ ⋆ 
 <h3>┊┊┊┊ ➶ ｡˚ ✧ </h3>
 <h3>┊┊┊✧ ⁺  &nbsp; &nbsp;   ⁺ 　° </h3>
@@ -17,7 +15,6 @@
 <h3>*. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *    · <br> </br> </h3>
 
 — I'm a computer engineering student who enjoys inclusive design, creative graphics, and music ˙ᵕ˙
- 
 
 <br></br>
 
