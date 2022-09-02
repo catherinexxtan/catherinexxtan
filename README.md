@@ -32,7 +32,10 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-·̇·̣̇̇·̣̣̇·̣̇̇·̇ •๑♡๑•୨୧┈┈┈┈┈ **editors** ┈┈┈┈┈┈୨୧•๑♡๑• ·̇·̣̇̇·̣̣̇·̣̇̇ 
+<br></br>
+
+
+·̇·̣̇̇·̣̣̇·̣̇̇·̇ •๑♡๑•୨୧┈┈┈┈┈┈┈┈┈┈ **editors** ┈┈┈┈┈┈┈┈┈୨୧•๑♡๑• ·̇·̣̇̇·̣̣̇·̣̇̇ <br></br>
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
